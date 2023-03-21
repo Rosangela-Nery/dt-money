@@ -47,6 +47,14 @@
       "type": "outcome",
       "createdAt": "2023-01-31T17:40:34.267Z",
       "id": 6
+    },
+    {
+      "description": "Livro Sapiens",
+      "price": 20,
+      "category": "Biblioteca",
+      "type": "outcome",
+      "createdAt": "2023-02-15T00:57:49.405Z",
+      "id": 7
     }
   ]
 }
