@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
  O DT-Money é um controle financeiro com entrada e saída.
- A gente consegue cadastrar novas entradas, saída, fazer busca e filtros. Ele foi desenvolvido em React e utilizando Typescript.
+ A gente consegue cadastrar novas entradas, saídas, fazer busca e filtros. Ele foi desenvolvido em React e utilizando Typescript.
  Foi aplicada a biblioteca Json-Server para simular um back-end. 
 
 <img src="src/assets/money1.png" width=500px height=400px/> <img src="src/assets/money2.png" width=500px height=400px/>
